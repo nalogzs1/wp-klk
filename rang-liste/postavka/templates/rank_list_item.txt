@@ -1,0 +1,5 @@
+<tr>
+    <td>%RANK%</td>
+    <td>%NAME%</td>
+    <td style="text-align: center;">%POINTS%</td>
+</tr>

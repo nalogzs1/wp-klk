@@ -1,0 +1,437 @@
+[
+    {
+        "name": "IMDb - Najpopularniji filmovi na dan 10. 6. 2019.",
+        "type": "mo",
+        "dsc": 1,
+        "items": [
+            {
+                "name": "One Flew Over the Cuckoo's Nest",
+                "points": 8.7              
+            },
+            {
+                "name": "The Godfather",
+                "points": 9.2                
+            },
+            {
+                "name": "12 Angry Men",
+                "points": 8.9                
+            },
+            {
+                "name": "Pulp Fiction",
+                "points": 8.9              
+            },
+            {
+                "name": "The Matrix",
+                "points": 8.6             
+            },
+            {
+                "name": "The Good, the Bad and the Ugly",
+                "points": 8.8              
+            },
+            {
+                "name": "The Godfather: Part II",
+                "points": 9              
+            },
+            {
+                "name": "Fight Club",
+                "points": 8.8              
+            },
+            {
+                "name": "The Dark Knight",
+                "points": 9                
+            },
+            {
+                "name": "The Lord of the Rings: The Fellowship of the Ring",
+                "points": 8.8              
+            },
+            {
+                "name": "Forrest Gump",
+                "points": 8.7              
+            },
+            {
+                "name": "Inception",
+                "points": 8.7              
+            },
+            {
+                "name": "The Lord of the Rings: The Return of the King",
+                "points": 8.9              
+            },
+            {
+                "name": "Star Wars: Episode V - The Empire Strikes Back",
+                "points": 8.7              
+            },
+            {
+                "name": "Schindler's List",
+                "points": 8.9              
+            },
+            {
+                "name": "The Lord of the Rings: The Two Towers",
+                "points": 8.7              
+            },
+            {
+                "name": "Goodfellas",
+                "points": 8.7              
+            },
+            {
+                "name": "Avengers: Endgame",
+                "points": 8.6              
+            },
+            {
+                "name": "The Shawshank Redemption",
+                "points": 9.2                
+            },
+            {
+                "name": "Seven Samurai",
+                "points": 8.6                
+            }
+        ]
+    },
+    {
+        "name": "RollingStones - Najpopularnije pesme svih vremena",
+        "type": "mu",
+        "dsc": 0,
+        "items": [
+            {
+                "name": "John Lennon, ‘Imagine’",
+                "points": 3
+            },
+            {
+                "name": "Aretha Franklin, ‘Respect’",
+                "points": 5
+            },
+            {
+                "name": "Marvin Gaye, ‘What’s Going On’",
+                "points": 4
+            },
+            {
+                "name": "Elvis Presley, ‘Hound Dog’",
+                "points": 19
+            },
+            {
+                "name": "The Rolling Stones, ‘(I Can’t Get No) Satisfaction’",
+                "points": 2
+            },
+            {
+                "name": "The Beach Boys, ‘Good Vibrations’",
+                "points": 6
+            },
+            {
+                "name": "The Beatles, ‘Hey Jude’",
+                "points": 8
+            },
+            {
+                "name": "The Beatles, ‘Yesterday’",
+                "points": 13
+            },
+            {
+                "name": "Nirvana, ‘Smells Like Teen Spirit’",
+                "points": 9
+            },
+            {
+                "name": "Ray Charles, ‘What’d I Say’",
+                "points": 10
+            },
+            {
+                "name": "The Clash, ‘London Calling’",
+                "points": 15
+            },
+            {
+                "name": "The Who, ‘My Generation’",
+                "points": 11
+            },
+            {
+                "name": "Sam Cooke, ‘A Change Is Gonna Come’",
+                "points": 12
+            },
+            {
+                "name": "Bob Dylan, ‘Blowin’ in the Wind’",
+                "points": 14
+            },
+            {
+                "name": "The Beatles, ‘I Want to Hold Your Hand’",
+                "points": 16
+            },
+            {
+                "name": "Chuck Berry, ‘Johnny B. Goode’",
+                "points": 7
+            },
+            {
+                "name": "The Jimi Hendrix Experience, ‘Purple Haze’",
+                "points": 17
+            },
+            {
+                "name": "Bob Dylan, ‘Like a Rolling Stone’",
+                "points": 1
+            },
+            {
+                "name": "Chuck Berry, ‘Maybellene’",
+                "points": 18
+            },
+            {
+                "name": "The Beatles, ‘Let It Be’",
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "IMDb - Najpopularnije serije na dan 10. 6. 2019.",
+        "type": "mo",
+        "dsc": 1,
+        "items": [
+            {
+                "name": "Human Planet",
+                "points": 9
+            },
+            {
+                "name": "Planet Earth",
+                "points": 9.4           
+            },
+            {
+                "name": "Breaking Bad",
+                "points": 9.4           
+            },
+            {
+                "name": "Game of Thrones",
+                "points": 9.3           
+            },
+            {
+                "name": "The World at War",
+                "points": 9.1           
+            },
+            {
+                "name": "The Wire",
+                "points": 9.2           
+            },
+            {
+                "name": "Planet Earth II",
+                "points": 9.5           
+            },
+            {
+                "name": "Our Planet",
+                "points": 9.2           
+            },
+            {
+                "name": "Blue Planet II",
+                "points": 9.2           
+            },
+            {
+                "name": "Cosmos",
+                "points": 9.2           
+            },
+            {
+                "name": "Rick and Morty",
+                "points": 9.2           
+            },
+            {
+                "name": "Cosmos (1980)",
+                "points": 9.2           
+            },
+            {
+                "name": "The Sopranos",
+                "points": 9.1           
+            },
+            {
+                "name": "Avatar: The Last Airbender",
+                "points": 9.1           
+            },
+            {
+                "name": "Chernobyl",
+                "points": 9.6           
+            },
+            {
+                "name": "Life",
+                "points": 9.1             
+            },
+            {
+                "name": "Sherlock",
+                "points": 9             
+            },
+            {
+                "name": "The Vietnam War",
+                "points": 9             
+            },
+            {
+                "name": "The Twilight Zone",
+                "points": 9             
+            },
+            {
+                "name": "Band of Brothers",
+                "points": 9.4          
+            }
+        ]
+    },
+    {
+        "name": "ATP lista - 27. 5. 2019.",
+        "type": "s",
+        "dsc": 1,
+        "items": [
+            {
+                "name": "Nikoloz Basilashvili",
+                "points": 1970
+            },
+            {
+                "name": "Karen Khachanov",
+                "points": 2800
+            },
+            {
+                "name": "Dominic Thiem",
+                "points": 4685
+            },
+            {
+                "name": "Alexander Zverev",
+                "points": 4360
+            },
+            {
+                "name": "Stefanos Tsitsipas",
+                "points": 4080
+            },
+            {
+                "name": "Kei Nishikori",
+                "points": 3860
+            },
+            {
+                "name": "Kevin Anderson",
+                "points": 3745
+            },
+            {
+                "name": "Juan Martin del Potro",
+                "points": 3235
+            },
+            {
+                "name": "John Isner",
+                "points": 2895
+            },
+            {
+                "name": "Fabio Fognini",
+                "points": 2785
+            },
+            {
+                "name": "Novak Djokovic",
+                "points": 12355
+            },
+            {
+                "name": "Marin Cilic",
+                "points": 2710
+            },
+            {
+                "name": "Roger Federer",
+                "points": 5950
+            },
+            {
+                "name": "Milos Raonic",
+                "points": 1960
+            },
+            {
+                "name": "Borna Coric",
+                "points": 2525
+            },
+            {
+                "name": "Gael Monfils",
+                "points": 1965
+            },
+            {
+                "name": "Marco Cecchinato",
+                "points": 1840
+            },
+            {
+                "name": "Daniil Medvedev",
+                "points": 2625
+            },
+            {
+                "name": "Rafael Nadal",
+                "points": 7945
+            },
+            {
+                "name": "Diego Schwartzman",
+                "points": 1755
+            }
+        ]
+    },
+    {
+        "name": "TIOBE indeks za maj 2019.",
+        "type": "o",
+        "dsc": 0,
+        "items": [
+            {
+                "name": "Delphi/Object Pascal",
+                "points": 12
+            },
+            {
+                "name": "C++",
+                "points": 3
+            },
+            {
+                "name": "C",
+                "points": 2
+            },
+            {
+                "name": "Python",
+                "points": 4
+            },
+            {
+                "name": "SQL",
+                "points": 8
+            },
+            {
+                "name": "C#",
+                "points": 6
+            },
+            {
+                "name": "JavaScript",
+                "points": 7
+            },
+            {
+                "name": "PHP",
+                "points": 9
+            },
+            {
+                "name": "Java",
+                "points": 1
+            },
+            {
+                "name": "Assembly language",
+                "points": 10
+            },
+            {
+                "name": "Visual Basic .NET",
+                "points": 5
+            },
+            {
+                "name": "Objective-C",
+                "points": 11
+            },
+            {
+                "name": "Perl",
+                "points": 13
+            },
+            {
+                "name": "Go",
+                "points": 19
+            },
+            {
+                "name": "MATLAB",
+                "points": 14
+            },
+            {
+                "name": "Visual Basic",
+                "points": 16
+            },
+            {
+                "name": "Groovy",
+                "points": 17
+            },
+            {
+                "name": "PL/SQL",
+                "points": 20
+            },
+            {
+                "name": "Swift",
+                "points": 18
+            },
+            {
+                "name": "Ruby",
+                "points": 15
+            }
+        ]
+    }
+]

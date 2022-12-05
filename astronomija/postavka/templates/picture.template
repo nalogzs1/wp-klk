@@ -1,0 +1,9 @@
+<div class="apod">
+    <h3>%TITLE%</h3>
+    <h4>%DATE%</h4>
+    <div>
+        <img src="%URL%">
+        <span class="copyright">%COPYRIGHT%</span>
+    </div>
+    <p>%EXPLANATION%</p>
+</div>

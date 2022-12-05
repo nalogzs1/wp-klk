@@ -1,0 +1,40 @@
+body {
+    background-image: url(../images/bg.jpg);
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px 0px 40px 0px;
+}
+
+table {
+    max-width: 100%;
+    color: white;
+}
+
+.buttons {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.buttons button {
+    margin: 0px 5px;
+    cursor: pointer;
+}
+
+.music {
+    background-color: #173f5f;
+}
+
+.movies {
+    background-color: #3caea3;
+}
+
+.sports {
+    background-color: #f6d55c;
+}
+
+.other {
+    background-color: #ed553b;
+}
