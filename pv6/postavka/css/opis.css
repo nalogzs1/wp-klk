@@ -1,0 +1,40 @@
+body {
+    font-size: 15px;
+    background-image: url(../images/pozadina2.jpg);
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+
+.naslov {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 2px solid black;
+    text-align: center;
+}
+
+div {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #5b2c6f;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #5b2c6f;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #A9A9A9;
+    color: white;
+    text-align: center;
+}

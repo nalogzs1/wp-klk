@@ -1,0 +1,30 @@
+{  
+   "content":{  
+      "books":[  
+         {  
+            "title":"Viciuos Circle",
+            "author":"CJ Box",
+            "img":"cover1.jpg",
+            "summary":"The Cates family had always been a bad lot. Game warden Joe Pickett had been able to strike a fierce blow against them when the life of his daughter April had been endangered, but he'd always wondered if there'd be a day of reckoning. He's not wondering any longer. Joe knows they're coming after him and his family now. He has his friend Nate by his side, but will that be enough this time? All he can do is prepare . . . and wait for them to make the first move. .",
+            "rating":3,
+            "review":"Bracingly familiar pleasures expertly packaged. The two families' fraught history, tangled enough to fuel a whole season of high-country soap opera, keeps this installment from being the best place to take the initial plunge into the franchise, but first-timers will be intrigued and fans amply rewarded."
+         },
+         {  
+            "title":"Nemesis",
+            "author":"Brendan Reichs",
+            "img":"cover2.jpg",
+            "summary":"It's been happening since Min was eight. Every two years, on her birthday, a strange man finds her and murders her in cold blood. But hours later, she wakes up in a clearing just outside her tiny Idaho hometown-alone, unhurt, and with all evidence of the horrifying crime erased.",
+            "rating":5,
+            "review":"Hooked readers will be tapping their fingers waiting for the sequel."
+         },
+         {  
+            "title":"Bone Box",
+            "author":"Faye Kellerman",
+            "img":"cover3.jpg",
+            "summary":"In this thrilling chapter in Faye Kellerman's bestselling series, Rina Lazarus makes a shocking discovery in the woods of her upstate New York community that leads her husband, police detective Peter Decker, through a series of gruesome, decades old, unsolved murders, pointing to a diabolical, serial killer who's been hiding in plain sight.",
+            "rating":1,
+            "review":"A low-concept small-town procedural that delivers more authenticity than suspense, with so many forgettable suspects, witnesses, and potential victims that you'll need a grade book to keep them straight."
+         }
+      ]
+   }
+}

@@ -1,0 +1,94 @@
+body {
+	font-family: 'Cabin', sans-serif;
+	background: url('../images/texture.jpg');
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	margin: 15px;
+	max-width: 30%;
+	max-height: 500px;
+	vertical-align: middle;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+a {
+	display: inline-block;
+	background-color: #303030;
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+	margin: 50px 5px;
+	border-radius: 3px;
+	-webkit-transition: background-color .25s ease-in-out;
+	transition: background-color .25s ease-in-out;
+}
+
+header {
+	width: 100%;
+	background: yellow;
+	margin: 0px;
+	padding: 0px;
+	height: 150px;
+	line-height: 150px;
+	background: url('../images/background.jpg');
+	border-bottom: 5px solid #800000;
+}
+
+header h1 {
+	padding: 0;
+	margin: 0;
+	margin: auto auto;
+	color: #800000;
+}
+
+.link-group {
+	clear: both;
+	margin: 0;
+}
+
+
+form {
+	margin-top: 10px;
+}
+
+form input {
+	height: 50px;
+	line-height: 50px;
+}
+
+form input[type=text] {
+	border: none;
+	text-align: center;
+	padding: 0 5px;
+	background: #808080;
+	border-radius: 3px 0 0 3px;
+	color: white;
+	-webkit-transition: background-color .25s ease-in-out;
+	transition: background-color .25s ease-in-out;
+}
+
+form input[type=text]:focus {
+	background: #999999;
+}
+
+form input[type=submit] {
+	background-color: #303030;
+	color: white;
+	border: none;
+	padding: 0 auto;
+	border-radius: 0 3px 3px 0;
+	cursor: pointer;
+	-webkit-transition: background-color .25s ease-in-out;
+	transition: background-color .25s ease-in-out;
+}
+
+form input[type=submit]:hover {
+	background-color: #808080;
+}
+
+a:hover {
+	background-color: #808080;
+}

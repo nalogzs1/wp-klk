@@ -1,0 +1,164 @@
+[
+	{
+		"from_airport": "BEG",
+		"to_airport": "FCO",
+		"seats": 50,
+		"departure_time": "2018-04-15, 11:45",
+		"arrival_time": "2018-04-15, 13:20",
+		"price": 130,
+		"airline": "Alitalia"
+	},
+	{
+		"from_airport": "BEG",
+		"to_airport": "FCO",
+		"seats": 50,
+		"departure_time": "2018-04-17, 11:45",
+		"arrival_time": "2018-04-17, 13:20",
+		"price": 110,
+		"airline": "Alitalia"
+	},
+	{
+		"from_airport": "BEG",
+		"to_airport": "FCO",
+		"seats": 50,
+		"departure_time": "2018-04-19, 11:45",
+		"arrival_time": "2018-04-19, 13:20",
+		"price": 138,
+		"airline": "Alitalia"
+	},
+	{
+		"from_airport": "FCO",
+		"to_airport": "BEG",
+		"seats": 50,
+		"departure_time": "2018-04-15, 16:20",
+		"arrival_time": "2018-04-15, 17:55",
+		"price": 120,
+		"airline": "Alitalia"
+	},	
+	{
+		"from_airport": "FCO",
+		"to_airport": "BEG",
+		"seats": 50,
+		"departure_time": "2018-04-17, 16:20",
+		"arrival_time": "2018-04-17, 17:55",
+		"price": 180,
+		"airline": "Alitalia"
+	},
+	{
+		"from_airport": "FCO",
+		"to_airport": "BEG",
+		"seats": 50,
+		"departure_time": "2018-04-19, 16:20",
+		"arrival_time": "2018-04-19, 17:55",
+		"price": 130,
+		"airline": "Alitalia"
+	},
+	{
+		"from_airport": "BEG",
+		"to_airport": "CDG",
+		"seats": 100,
+		"departure_time": "2018-04-16, 06:40",
+		"arrival_time": "2018-04-16, 09:20",
+		"price": 194,
+		"airline": "Air Serbia"
+	},
+	{
+		"from_airport": "BEG",
+		"to_airport": "CDG",
+		"seats": 100,
+		"departure_time": "2018-04-18, 06:40",
+		"arrival_time": "2018-04-18, 09:20",
+		"price": 170,
+		"airline": "Air Serbia"
+	},
+	{
+		"from_airport": "BEG",
+		"to_airport": "CDG",
+		"seats": 100,
+		"departure_time": "2018-04-20, 06:40",
+		"arrival_time": "2018-04-20, 09:20",
+		"price": 200,
+		"airline": "Air Serbia"
+	},
+	{
+		"from_airport": "CDG",
+		"to_airport": "BEG",
+		"seats": 100,
+		"departure_time": "2018-04-16, 20:30",
+		"arrival_time": "2018-04-16, 22:55",
+		"price": 155,
+		"airline": "Air Serbia"
+	},
+	{
+		"from_airport": "CDG",
+		"to_airport": "BEG",
+		"seats": 100,
+		"departure_time": "2018-04-18, 20:30",
+		"arrival_time": "2018-04-18, 22:55",
+		"price": 1168,
+		"airline": "Air Serbia"
+	},
+	{
+		"from_airport": "CDG",
+		"to_airport": "BEG",
+		"seats": 100,
+		"departure_time": "2018-04-20, 20:30",
+		"arrival_time": "2018-04-20, 22:55",
+		"price": 157,
+		"airline": "Air Serbia"
+	},
+	{
+		"from_airport": "MAD",
+		"to_airport": "CDG",
+		"seats": 80,
+		"departure_time": "2018-04-16, 07:00",
+		"arrival_time": "2018-04-16, 09:05",
+		"price": 90,
+		"airline": "Air France"
+	},
+	{
+		"from_airport": "MAD",
+		"to_airport": "CDG",
+		"seats": 80,
+		"departure_time": "2018-04-20, 07:00",
+		"arrival_time": "2018-04-20, 09:05",
+		"price": 99,
+		"airline": "Air France"
+	},
+	{
+		"from_airport": "CDG",
+		"to_airport": "MAD",
+		"seats": 80,
+		"departure_time": "2018-04-16, 06:20",
+		"arrival_time": "2018-04-16, 08:25",
+		"price": 90,
+		"airline": "Air France"
+	},
+	{
+		"from_airport": "CDG",
+		"to_airport": "MAD",
+		"seats": 80,
+		"departure_time": "2018-04-20, 06:20",
+		"arrival_time": "2018-04-20, 08:25",
+		"price": 90,
+		"airline": "Air France"
+	},
+	{
+		"from_airport": "BUD",
+		"to_airport": "MAD",
+		"seats": 0,
+		"departure_time": "2018-04-19, 16:40",
+		"arrival_time": "2018-04-19, 20:05",
+		"price": 44,
+		"airline": "WizzAir"
+	},
+	{
+		"from_airport": "BUD",
+		"to_airport": "MAD",
+		"seats": 80,
+		"departure_time": "2018-04-19, 16:40",
+		"arrival_time": "2018-04-19, 20:05",
+		"price": 64,
+		"airline": "WizzAir"
+	}
+]

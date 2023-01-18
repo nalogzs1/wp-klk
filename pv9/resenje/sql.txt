@@ -1,0 +1,8 @@
+create schema wp;
+
+use wp;
+create table User (id int auto_increment, username varchar(100), password varchar(100), name varchar(100), avatar varchar(100), profession varchar(100), address varchar(100), birthday varchar(100), gender varchar(1), primary key (id));
+
+create table Post (id int auto_increment, time varchar(100), content varchar(500), userId int,  primary key(id), foreign key (userId) references User(id));
+
+

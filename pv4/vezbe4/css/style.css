@@ -1,0 +1,56 @@
+body {
+	background-color: #fff8dc;
+	text-align: center;
+}
+
+h1 {
+	color: #990000;
+}
+
+img {
+	width: 100px;
+	-webkit-transition: width 1s;
+	transition: width 1s;
+}
+
+img:hover {
+	width: 200px;
+}
+
+table, td {
+	border: 2px solid #990000;
+	border-collapse: collapse;
+	margin: auto;
+}
+
+button {
+	cursor: pointer;
+}
+
+.container {
+	border-radius: 4px;
+	border-style: solid;
+	border-color: #990000;
+	padding: 15px 16px;
+	margin: 20px 10px;
+	overflow: hidden;	
+}
+
+.book-detail {
+	float: left;
+	width: 50%;
+	border-right: 2px solid #990000;
+}
+
+.book-rating{
+	float: right;
+	width: 50%;
+}
+
+.positive {
+	color: #98fb98;
+}
+
+.negative {
+	color: #b22222;	
+}

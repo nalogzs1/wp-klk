@@ -1,0 +1,102 @@
+body {
+	background-color: rgb(99,44,99);
+	color: rgb(237,228,216);
+	text-align: center;
+}
+
+a {
+	color: rgb(237,228,216);
+}
+
+form {
+	background-color: rgba(255,255,255,0.2);
+	padding: 20px 5px;
+	border-left: 20px solid rgb(48,194,154);
+	border-right: 20px solid rgb(48,194,154);
+	margin: 20px;
+}
+
+fieldset {
+	background-color: rgb(99,44,99);
+	margin: 10px 0px;
+	border-top: 25px solid rgb(48,194,154);
+	border-right: none;
+	border-bottom: none;
+	border-left: none;
+	margin: 20px 30px;
+}
+
+fieldset legend {	
+	background-color: rgb(48,194,154);
+	height: 19px;
+	padding: 3px;
+}
+
+input, select, button {
+	min-width: 150px;
+	height: 30px;
+	outline: none;
+	border: none;
+	padding: 0px 10px;
+	margin: 10px 10px 10px 3px;
+}
+
+input[type=number] {
+	width: 50px;
+	min-width: initial;
+}
+
+input[type=submit], button {
+	width: auto;
+	padding: 5px 20px;
+	background-color: rgb(48,194,154);
+	cursor: pointer;
+	transition: background-color 0.5s;
+}
+
+input[type=submit]:hover {
+	background-color: rgb(237,228,216);
+}
+
+button {
+	background-color: rgb(237,228,216);
+}
+
+button:hover {
+	background-color: rgb(48,194,154);
+}
+
+.flight {
+	display: inline-block;
+	background-color: rgba(255,255,255,0.1);
+	padding: 20px 5px;
+	margin: 10px;
+	border-top: 20px solid rgb(48,194,154);
+	border-bottom: 20px solid rgb(48,194,154);
+	transition: border 1s;
+	vertical-align: top;
+}
+
+.flight:hover {
+	border-top: 20px solid rgb(237,228,216);
+	border-bottom: 20px solid rgb(237,228,216);
+}
+
+.flight table td {
+	padding: 3px 10px;
+}
+
+.flight table td:nth-child(1) {
+	text-align: right;
+}
+
+.flight table td:nth-child(2) {
+	text-align: left;
+}
+
+.message {
+	padding: 20px;
+	margin: 20px;
+	background-color: rgb(237,228,216);
+	color: black;
+}

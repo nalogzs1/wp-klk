@@ -1,0 +1,232 @@
+{
+  "Dani": [
+    {
+      "Dan": "Ponedeljak",
+      "Predmeti": [
+        {
+          "Vreme": "8-9",
+          "Sala": "sala 63",
+          "Predmet": "Uvod u elektronsko poslovanje",
+          "Nastavnik": "A.Klasnja-Milicevic",
+          "Tip": "V",
+          "Opis": "Uvod u elektronsko poslovanje - predmet na I godini studija informatike. Poslovni modeli i strategije u elektronskom poslovanju. Tehnologije za implementaciju elektronskog poslovanja. Sistemi elektronskog plaćanja i toka novca, sigurnost i kontrola. Tipične primene elektronskog poslovanja. Mala i srednja preduzeća i elektronsko poslovanje. Aktuelna istraživanja u sferi elektronskog poslovanja. Marketing i oglašavanje na Internetu."
+        },
+        {
+          "Vreme": "11-13",
+          "Sala": "sala 65",
+          "Predmet": "Softverski praktikum 2 - Veb dizajn",
+          "Nastavnik": "V. Kurbalija",
+          "Tip": "P",
+          "Opis": "Web dizajn je opšteprihvaćeni pojam koji obuhvata različite veštine, standarde i discipline koji se koriste u izradi web stranica.Web dizajn je planiranje i izrada web stranica. Taj proces uključuje informacionu arhitekturu, korisničko okruženje, strukturu stranica, navigaciju, izgled, boje, fontove i slike. Sve ovo je u kombinaciji sa načelima dizajna za stvaranje web stranice koja zadovoljava ciljeve vlasnika i dizajnera."
+        },
+        {
+          "Vreme": "13-15",
+          "Sala": "amf VII",
+          "Predmet": "Strukture podataka i algoritmi 1",
+          "Nastavnik": "V. Kurbalija",
+          "Tip": "P",
+          "Opis": "Web dizajn je opšteprihvaćeni pojam koji obuhvata različite veštine, standarde i discipline koji se koriste u izradi web stranica.Web dizajn je planiranje i izrada web stranica. Taj proces uključuje informacionu arhitekturu, korisničko okruženje, strukturu stranica, navigaciju, izgled, boje, fontove i slike. Sve ovo je u kombinaciji sa načelima dizajna za stvaranje web stranice koja zadovoljava ciljeve vlasnika i dizajnera."
+        },
+        {
+          "Vreme": "16-20",
+          "Sala": "rc59/3",
+          "Predmet": "Soft. praktikum 2 – Vizuelno programiranje",
+          "Nastavnik": "G. Rakic",
+          "Tip": "P+V",
+          "Opis": "Teorijska nastava: Radna okolina alata za vizuelno programiranje i njeni sastavni delovi. Pojam događaja i biblioteke komponenti. Osnovne komponente. Osnove programskog jezika: kontrolne strukture i tipovi podataka. Komponente sistema za interakciju sa korisnikom, za pristup podacima i bazama podataka, i za izveštaje. Prozori (forme), njihovo kreiranje, pozivanje i uništavanje. Napredne komponente. Elementi multimedije. .Net Studio C#, Java NET Beans.Praktična nastava: Korišćenje integrisanih razvojnih okruženja za razvoj vizuelnih aplikacija. Samostalno kreiranje aplikacija i elemenata aplikacija sa vizuelnim korisničkim interfejsom."
+        },
+        {
+          "Vreme": "15-18",
+          "Sala": "sala 63",
+          "Predmet": "Analiza 2",
+          "Nastavnik": "S. Gordic",
+          "Tip": "V",
+          "Opis": "Kurs obuhvata diferencijalni i integralni racun za funkcije koje slikaju podskup prostora R^n u podskup prostora R^m i podeljen je u 3 dela: 1. uvodni deo sastoji se od ponavaljanja pojmova potrebnih za razumevanje prostora R^n, kao sto su lopte, otvoreni i zatvoreni skupovi, norme, nizovi, Bolzano–Weierstrass-ova teorema (dokaz ove teoreme imate okacen u obavestenjima)... te uopstenje pojmova limesa, izvoda i integrala sa realnih funkcija jedne promenljive (Analiza 1) na vektorske funkcije jedne promenljive. 2. deo obuhvata diferencijalni racun za funkcije vise promeljivih - pojmovi koji se obradjuju su parcijalni izvod, gradijent, diferencijal i diferencijabilnost, izvod po pravcu, lokalni i uslovni ekstremi. 3. deo obuhvata integralni racun i primene - upoznajemo se sa pojmovima kao sto su dvostruki i trostruki integral, krivolinijski, povrsinski integral i teoremama koje ih povezuju"
+        },
+        {
+          "Vreme": "16-19",
+          "Sala": "rc59/1",
+          "Predmet": "Soft. praktikum 2 - Multimedija",
+          "Nastavnik": "S. Tosic",
+          "Tip": "V",
+          "Opis": "Kurs Softverski praktikum II – Multimedija na Departmanu za matematiku i informatiku namenjen je svim studentima računarstva. Na kraju kursa svaki student će razumeti osnovne principe kreiranja, prenosa, reprodukcije i pohranjivanja digitalnih multimedijalnih sadržaja."
+        },
+        {
+          "Vreme": "16-18",
+          "Sala": "bio",
+          "Predmet": "Engleski jezik 2",
+          "Nastavnik": "Lj. KneZevic",
+          "Tip": "P",
+          "Opis": ""
+        },
+        {
+          "Vreme": "19 - 20",
+          "Sala": "sala 60",
+          "Predmet": "Soft. praktikum 2 - Multimedija",
+          "Nastavnik": "D. Masulovic",
+          "Tip": "P",
+          "Opis": "Kurs Softverski praktikum II – Multimedija na Departmanu za matematiku i informatiku namenjen je svim studentima računarstva. Na kraju kursa svaki student će razumeti osnovne principe kreiranja, prenosa, reprodukcije i pohranjivanja digitalnih multimedijalnih sadržaja."
+        }
+      ]
+    },
+    {
+      "Dan": "Utorak",
+      "Predmeti": [
+        {
+          "Vreme": "9-10",
+          "Sala": "rc59/1",
+          "Predmet": "Softverski praktikum 2 - Veb dizajn",
+          "Nastavnik": "D. Radakovic",
+          "Tip": "RV",
+          "Opis": "Web dizajn je opšteprihvaćeni pojam koji obuhvata različite veštine, standarde i discipline koji se koriste u izradi web stranica.Web dizajn je planiranje i izrada web stranica. Taj proces uključuje informacionu arhitekturu, korisničko okruženje, strukturu stranica, navigaciju, izgled, boje, fontove i slike. Sve ovo je u kombinaciji sa načelima dizajna za stvaranje web stranice koja zadovoljava ciljeve vlasnika i dizajnera."
+        },
+        {
+          "Vreme": "11-14",
+          "Sala": "sala 63",
+          "Predmet": "Osnovi algebre",
+          "Nastavnik": "A.Tepavcevic",
+          "Tip": "P",
+          "Opis": ""
+        },
+        {
+          "Vreme": "14-17",
+          "Sala": "rc59/1",
+          "Predmet": "Softverski praktikum 2 - Veb dizajn",
+          "Nastavnik": "B. Bratic",
+          "Tip": "RV",
+          "Opis": "Web dizajn je opšteprihvaćeni pojam koji obuhvata različite veštine, standarde i discipline koji se koriste u izradi web stranica.Web dizajn je planiranje i izrada web stranica. Taj proces uključuje informacionu arhitekturu, korisničko okruženje, strukturu stranica, navigaciju, izgled, boje, fontove i slike. Sve ovo je u kombinaciji sa načelima dizajna za stvaranje web stranice koja zadovoljava ciljeve vlasnika i dizajnera."
+        }
+      ]
+    },
+    {
+      "Dan": "Sreda",
+      "Predmeti": [
+        {
+          "Dan": "Sreda",
+          "Vreme": "8-11",
+          "Sala": "amf V",
+          "Predmet": "Algebra za informaticare",
+          "Nastavnik": "N. Mudrinski",
+          "Tip": "P",
+          "Opis": "Brojevne strukture i deljivost u celim brojevima. Polinomi sa celim, racionalnim, realnim ili kompleksnim koeficijentima. Algebarske strukture: grupoidi, grupe, prsteni i polja. Mreže i Bulove algebre. Linearna algebra: rešavanje linearnih sistema jednačina Gausovim algoritmom, vektroski prostori i matrice, determinante."
+        },
+        {
+          "Dan": "Sreda",
+          "Vreme": "11-14",
+          "Sala": "amf V",
+          "Predmet": "Algebra za informaticare",
+          "Nastavnik": "N. Mudrinski",
+          "Tip": "V",
+          "Opis": "Brojevne strukture i deljivost u celim brojevima. Polinomi sa celim, racionalnim, realnim ili kompleksnim koeficijentima. Algebarske strukture: grupoidi, grupe, prsteni i polja. Mreže i Bulove algebre. Linearna algebra: rešavanje linearnih sistema jednačina Gausovim algoritmom, vektroski prostori i matrice, determinante."
+        },
+        {
+          "Dan": "Sreda",
+          "Vreme": "11-14",
+          "Sala": "sala 61",
+          "Predmet": "Algebra za informaticare",
+          "Nastavnik": "S.Hacko",
+          "Tip": "V",
+          "Opis": "Brojevne strukture i deljivost u celim brojevima. Polinomi sa celim, racionalnim, realnim ili kompleksnim koeficijentima. Algebarske strukture: grupoidi, grupe, prsteni i polja. Mreže i Bulove algebre. Linearna algebra: rešavanje linearnih sistema jednačina Gausovim algoritmom, vektroski prostori i matrice, determinante."
+        }
+      ]
+    },
+    {
+      "Dan": "Cetvrtak",
+      "Predmeti": [
+        {
+          "Vreme": "17-20",
+          "Sala": "sala 61",
+          "Predmet": "Analiza 2",
+          "Nastavnik": "I. stajner-Papuga",
+          "Tip": "P",
+          "Opis": ""
+        },
+        {
+          "Vreme": "8-11",
+          "Sala": "sala 62",
+          "Predmet": "Osnovi digitalne elektronike",
+          "Nastavnik": "Z. Mijatovic",
+          "Tip": "P+V",
+          "Opis": ""
+        },
+        {
+          "Vreme": "12-14",
+          "Sala": "amf V",
+          "Predmet": "Strukture podataka i algoritmi 1",
+          "Nastavnik": "D.Pracner",
+          "Tip": "V",
+          "Opis": "Apstraktni tip podataka SKUP i njegove realizacije. Pretraživanje skupa i apstraktni tip podataka rečnik (hešovanje).Sortiranje skupa: elementarni algoritmi sortiranja nizova, složeni algoritmi sortiranja nizova, sortiranje lista. Ocena složenosti algoritama sortiranja.Princip programiranja podeli i osvoji i primene. Nalaženje podskupa pretraživanjem (bektrek) i primene. Pre­traživanja skupa sa ograničenjima, dinamičko programiranje i gramzivi algoritam. Konstruktivno generisanje podskupa i primene na osnovne kombinatorne objekte.Apstraktni tip podataka STABLO i njegove realizacije. Obilasci stabla. Stablo pretraživanja."
+        },
+        {
+          "Vreme": "14-17",
+          "Sala": "sala 61",
+          "Predmet": "Osnovi algebre",
+          "Nastavnik": "V. Uljarevic",
+          "Tip": "V",
+          "Opis": ""
+        },
+        {
+          "Vreme": "17-18",
+          "Sala": "rc59/1",
+          "Predmet": "Uvod u elektronsko poslovanje",
+          "Nastavnik": "D. Radakovic",
+          "Tip": "RV",
+          "Opis": "Uvod u elektronsko poslovanje - predmet na I godini studija informatike. Poslovni modeli i strategije u elektronskom poslovanju. Tehnologije za implementaciju elektronskog poslovanja. Sistemi elektronskog plaćanja i toka novca, sigurnost i kontrola. Tipične primene elektronskog poslovanja. Mala i srednja preduzeća i elektronsko poslovanje. Aktuelna istraživanja u sferi elektronskog poslovanja. Marketing i oglašavanje na Internetu."
+        },
+        {
+          "Vreme": "17-18",
+          "Sala": "rc59/3",
+          "Predmet": "Uvod u elektronsko poslovanje",
+          "Nastavnik": "S. Tosic",
+          "Tip": "RV",
+          "Opis": "Uvod u elektronsko poslovanje - predmet na I godini studija informatike. Poslovni modeli i strategije u elektronskom poslovanju. Tehnologije za implementaciju elektronskog poslovanja. Sistemi elektronskog plaćanja i toka novca, sigurnost i kontrola. Tipične primene elektronskog poslovanja. Mala i srednja preduzeća i elektronsko poslovanje. Aktuelna istraživanja u sferi elektronskog poslovanja. Marketing i oglašavanje na Internetu."
+        },
+        {
+          "Vreme": "18-19",
+          "Sala": "rc59/1",
+          "Predmet": "Uvod u elektronsko poslovanje",
+          "Nastavnik": "D. Radakovic",
+          "Tip": "RV",
+          "Opis": "Uvod u elektronsko poslovanje - predmet na I godini studija informatike. Poslovni modeli i strategije u elektronskom poslovanju. Tehnologije za implementaciju elektronskog poslovanja. Sistemi elektronskog plaćanja i toka novca, sigurnost i kontrola. Tipične primene elektronskog poslovanja. Mala i srednja preduzeća i elektronsko poslovanje. Aktuelna istraživanja u sferi elektronskog poslovanja. Marketing i oglašavanje na Internetu."
+        }
+      ]
+    },
+    {
+      "Dan": "Petak",
+      "Predmeti": [
+        {
+          "Vreme": "19-20",
+          "Sala": "rc59/1",
+          "Predmet": "Strukture podataka i algoritmi 1",
+          "Nastavnik": "Milos Savic",
+          "Tip": "RV",
+          "Opis": "Apstraktni tip podataka SKUP i njegove realizacije. Pretraživanje skupa i apstraktni tip podataka rečnik (hešovanje).Sortiranje skupa: elementarni algoritmi sortiranja nizova, složeni algoritmi sortiranja nizova, sortiranje lista. Ocena složenosti algoritama sortiranja.Princip programiranja podeli i osvoji i primene. Nalaženje podskupa pretraživanjem (bektrek) i primene. Pre­traživanja skupa sa ograničenjima, dinamičko programiranje i gramzivi algoritam. Konstruktivno generisanje podskupa i primene na osnovne kombinatorne objekte.Apstraktni tip podataka STABLO i njegove realizacije. Obilasci stabla. Stablo pretraživanja."
+        },
+        {
+          "Vreme": "19-20",
+          "Sala": "rc59/3",
+          "Predmet": "Strukture podataka i algoritmi 1",
+          "Nastavnik": "D.Radakovic",
+          "Tip": "RV",
+          "Opis": "Apstraktni tip podataka SKUP i njegove realizacije. Pretraživanje skupa i apstraktni tip podataka rečnik (hešovanje).Sortiranje skupa: elementarni algoritmi sortiranja nizova, složeni algoritmi sortiranja nizova, sortiranje lista. Ocena složenosti algoritama sortiranja.Princip programiranja podeli i osvoji i primene. Nalaženje podskupa pretraživanjem (bektrek) i primene. Pre­traživanja skupa sa ograničenjima, dinamičko programiranje i gramzivi algoritam. Konstruktivno generisanje podskupa i primene na osnovne kombinatorne objekte.Apstraktni tip podataka STABLO i njegove realizacije. Obilasci stabla. Stablo pretraživanja."
+        },
+        {
+          "Vreme": "9-11",
+          "Sala": "rc59/1",
+          "Predmet": "Strukture podataka i algoritmi 1",
+          "Nastavnik": "Milos Savic",
+          "Tip": "RV",
+          "Opis": "Apstraktni tip podataka SKUP i njegove realizacije. Pretraživanje skupa i apstraktni tip podataka rečnik (hešovanje).Sortiranje skupa: elementarni algoritmi sortiranja nizova, složeni algoritmi sortiranja nizova, sortiranje lista. Ocena složenosti algoritama sortiranja.Princip programiranja podeli i osvoji i primene. Nalaženje podskupa pretraživanjem (bektrek) i primene. Pre­traživanja skupa sa ograničenjima, dinamičko programiranje i gramzivi algoritam. Konstruktivno generisanje podskupa i primene na osnovne kombinatorne objekte.Apstraktni tip podataka STABLO i njegove realizacije. Obilasci stabla. Stablo pretraživanja."
+        },
+        {
+          "Vreme": "10-11",
+          "Sala": "rc59/3",
+          "Predmet": "Strukture podataka i algoritmi 1",
+          "Nastavnik": "D.Radakovic",
+          "Tip": "RV",
+          "Opis": "Apstraktni tip podataka SKUP i njegove realizacije. Pretraživanje skupa i apstraktni tip podataka rečnik (hešovanje).Sortiranje skupa: elementarni algoritmi sortiranja nizova, složeni algoritmi sortiranja nizova, sortiranje lista. Ocena složenosti algoritama sortiranja.Princip programiranja podeli i osvoji i primene. Nalaženje podskupa pretraživanjem (bektrek) i primene. Pre­traživanja skupa sa ograničenjima, dinamičko programiranje i gramzivi algoritam. Konstruktivno generisanje podskupa i primene na osnovne kombinatorne objekte.Apstraktni tip podataka STABLO i njegove realizacije. Obilasci stabla. Stablo pretraživanja."
+        }
+      ]
+    }
+  ]
+}

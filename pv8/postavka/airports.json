@@ -1,0 +1,27 @@
+[
+	{
+		"id": "BEG",
+		"name": "Nikola Tesla",
+		"city": "Belgrade"
+	},
+	{
+		"id": "FCO",
+		"name": "Fiumicino",
+		"city": "Rome"
+	},
+	{
+		"id": "CDG",
+		"name": "Charles de Gaulle",
+		"city": "Paris"
+	},
+	{
+		"id": "MAD",
+		"name": "Adolfo Suarez Barajas",
+		"city": "Madrid"
+	},
+	{
+		"id": "BUD",
+		"name": "Ferenc Liszt",
+		"city": "Budapest"
+	}
+]

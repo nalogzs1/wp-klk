@@ -1,0 +1,95 @@
+body {
+	font-family: 'Spectral SC', serif;
+	background-color: #2B7A78;
+	color: #17252A;
+}
+
+div {
+	white-space: nowrap;
+}
+
+h1 {
+	text-align: center;
+	font-size: 5em;
+}
+
+h2 {
+}
+
+body > div > div, form {
+	border-left: solid 20px #DEF2F1;
+	padding-left: 50px;
+	margin: 40px 20px;
+}
+
+body > div > div > div {
+	display: inline-block;
+	background-color: #FEFFFF;
+	padding: 30px;
+}
+
+button, input[type=submit] {
+	background-color: #DEF2F1;
+	margin: 8px;
+	padding: 10px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	-webkit-transition: background-color .25s ease-in-out;
+	transition: background-color .25s ease-in-out;
+}
+
+button:hover, input[type=submit]:hover {
+	background-color: #17252A;
+	color: #DEF2F1;
+}
+
+input[type=text], input[type=password], input[type=date], select {
+	width: 300px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	padding: 6px;
+}
+
+form div {
+	margin: 20px 0px;
+	color: #DEF2F1;
+	font-weight: bold;
+}
+
+#color-scheme-form {
+	border: 0px;
+	padding-left: 0px;
+	margin: 40px 20px;
+}
+
+.free, .reserved {
+	display: inline-block;
+	width: 50px;
+	height: 40px;
+	margin: 3px;
+}
+
+.free {
+	background-color: green;
+}
+
+.reserved {
+	background-color: red;
+}
+
+.daltonist .free {
+	background-color: #AAAAAA;
+}
+
+.daltonist .reserved {
+	background-color: #555555;
+}
+
+.errors div {
+	color: red;
+	padding: 10px 20px;
+	margin: 10px 20px;
+}

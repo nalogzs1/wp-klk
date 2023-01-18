@@ -1,0 +1,72 @@
+body {
+    font-size: 15px;
+    background-image: url(../images/pozadina.jpg);
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.naslov {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 2px solid black;
+    text-align: center;
+}
+
+div {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #5b2c6f;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #5b2c6f;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.logo {
+    border-radius: 50%;
+    max-width: 100px;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+th, td {
+    text-align: left;
+    padding: 15px;
+}
+
+tr {
+    background-color: #f2f2f2
+}
+
+th {
+    height: 30px;
+    background-color: #5b2c6f;
+    color: white;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #5b2c6f;
+    color: white;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    background-color: #5b2c6f;
+    padding: 10px 0px;
+    margin: 0px 20px;
+}

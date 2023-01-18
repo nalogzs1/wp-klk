@@ -1,0 +1,65 @@
+body {
+    background-image: url(../images/background.jpg);
+    text-align: center;
+    padding-top: 50px;
+}
+
+.container {
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    padding: 20px;
+    vertical-align: middle;
+    width: 70%;
+    min-width: 400px;
+    margin: 20px auto;
+}
+
+.container h5 {
+    margin: 10px 0;
+    font-family: serif;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.container div {
+    margin: 10px;
+}
+
+.error {
+    color: red;
+}
+
+input[type="submit"], button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    transition: all 0.5s;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover, button:hover {
+    background-color: #E7461B;
+    color: black;
+}
+
+table {
+    margin: auto;
+}
+
+.yellow {
+    background-color: #E5E2AE;
+}
+
+.red {
+    background-color: #E2B9B7;
+}
+
+.blue {
+    background-color: #B5DFE2;
+}
